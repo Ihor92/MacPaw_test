@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/mac-paw_test/static/css/main.d1b05096.chunk.css",
-    "main.js": "/mac-paw_test/static/js/main.2ced912d.chunk.js",
-    "main.js.map": "/mac-paw_test/static/js/main.2ced912d.chunk.js.map",
-    "runtime-main.js": "/mac-paw_test/static/js/runtime-main.d36bc574.js",
-    "runtime-main.js.map": "/mac-paw_test/static/js/runtime-main.d36bc574.js.map",
-    "static/js/2.7a1440d7.chunk.js": "/mac-paw_test/static/js/2.7a1440d7.chunk.js",
-    "static/js/2.7a1440d7.chunk.js.map": "/mac-paw_test/static/js/2.7a1440d7.chunk.js.map",
-    "index.html": "/mac-paw_test/index.html",
-    "precache-manifest.b531ee0b5b093518ccd5a1ff94df5158.js": "/mac-paw_test/precache-manifest.b531ee0b5b093518ccd5a1ff94df5158.js",
-    "service-worker.js": "/mac-paw_test/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/mac-paw_test/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.7a1440d7.chunk.js.LICENSE.txt": "/mac-paw_test/static/js/2.7a1440d7.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/mac-paw_test/static/media/logo.5d5d9eef.svg"
+    "main.css": "/MacPaw_test/static/css/main.d1b05096.chunk.css",
+    "main.js": "/MacPaw_test/static/js/main.7bdf6185.chunk.js",
+    "main.js.map": "/MacPaw_test/static/js/main.7bdf6185.chunk.js.map",
+    "runtime-main.js": "/MacPaw_test/static/js/runtime-main.f1a074b2.js",
+    "runtime-main.js.map": "/MacPaw_test/static/js/runtime-main.f1a074b2.js.map",
+    "static/js/2.7a1440d7.chunk.js": "/MacPaw_test/static/js/2.7a1440d7.chunk.js",
+    "static/js/2.7a1440d7.chunk.js.map": "/MacPaw_test/static/js/2.7a1440d7.chunk.js.map",
+    "index.html": "/MacPaw_test/index.html",
+    "precache-manifest.2716bab77cf1096f5a1fb6f39621b990.js": "/MacPaw_test/precache-manifest.2716bab77cf1096f5a1fb6f39621b990.js",
+    "service-worker.js": "/MacPaw_test/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/MacPaw_test/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.7a1440d7.chunk.js.LICENSE.txt": "/MacPaw_test/static/js/2.7a1440d7.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/MacPaw_test/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d36bc574.js",
+    "static/js/runtime-main.f1a074b2.js",
     "static/js/2.7a1440d7.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.2ced912d.chunk.js"
+    "static/js/main.7bdf6185.chunk.js"
   ]
 }
